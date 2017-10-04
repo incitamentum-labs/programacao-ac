@@ -41,6 +41,7 @@ Lista de programas de computador surgidos no contexto da análise do comportamen
 
 ## Simuladores
 
+[Sniffy, the virtual rat: Simulated operant conditioning](https://link.springer.com/article/10.3758/BF03204606)
 
 ## Testes, Exemplos e Protótipos
 
