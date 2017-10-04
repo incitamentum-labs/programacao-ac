@@ -7,9 +7,17 @@ Lista de programas de computador surgidos no contexto da análise do comportamen
 
 [Picanço & Tonneau (2016). Análise do comportamento por meio de rastreamento de movimentos oculares: uma nota técnica.](https://github.com/cpicanco/abpmc-2016)
 
-## Controle de estímulos
+## Controle de estímulos, Ensino individualizado, Esquemas de reforço
 
 [EAM - Emparelhamento ao Modelo](https://github.com/eep-lab/eam)
+
+[Generating Variable and Random Schedules of Reinforcement Using Microsoft Excel Macros](dx.doi.org/10.1901/jaba.2008.41-227)
+
+[LECH-GEIC - Gerenciador de Ensino Individualizado por Computador](http://geic.ufscar.br/site/)
+
+[Software para aprendizagem e reabilitação auditiva usando a tentativa do tipo discriminação simples simultânea](http://www.br-ie.org/pub/index.php/wie/article/view/2080)
+
+[Super State - A computer program for the control of operant behavioral experimentation](https://doi.org/10.1016/j.jneumeth.2006.01.004)
 
 [Stimulus control - Uma máquina de ensinar para experimentos comportamentais](https://github.com/cpicanco/stimulus_control)
 
@@ -31,6 +39,25 @@ Lista de programas de computador surgidos no contexto da análise do comportamen
 
 [Operant Behaviour Programs for Med Associates chambers](https://github.com/SKhoo/MedStateNotation)
 
+## Simuladores
+
+
 ## Testes, Exemplos e Protótipos
 
 [Protótipos (Object Pascal)](https://github.com/cpicanco/free-pascal-prototypes)
+
+# Programas surgidos em outros contextos, mas possivelmente de interesse do analista do comportamento
+
+## Psicofísica
+
+[PsychoPy—Psychophysics software in Python](https://doi.org/10.1016/j.jneumeth.2006.11.017)
+
+## Economia Experimental, Cognição, Neurociência
+
+[Expyriment - A Python library for cognitive and neuroscientific experiments](http://www.expyriment.org/)
+
+[OpenSesame: An open-source, graphical experiment builder for the social sciences](http://osdoc.cogsci.nl/)
+
+[PsyScope X](http://psy.ck.sissa.it/)
+
+[z-Tree - Zurich Toolbox for Readymade Economic Experiments](http://www.ztree.uzh.ch/en.html)
