@@ -15,6 +15,8 @@ Lista de programas de computador surgidos no contexto da análise do comportamen
 
 [LECH-GEIC - Gerenciador de Ensino Individualizado por Computador](http://geic.ufscar.br/site/)
 
+[MTS v 11.6, Software for research and education](http://www.scielo.br/scielo.php?script=sci_nlinks&ref=000097&pid=S0102-3772201000020000900011&lng=es)
+
 [Software Contingência programada: Utilidade e Funcionalidades](http://www.periodicos.ufpa.br/index.php/rebac/article/view/3949)
 
 [Software para aprendizagem e reabilitação auditiva usando a tentativa do tipo discriminação simples simultânea](http://www.br-ie.org/pub/index.php/wie/article/view/2080)
