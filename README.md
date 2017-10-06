@@ -53,7 +53,9 @@ Lista de programas de computador surgidos no contexto da análise do comportamen
 
 [Protótipos (Object Pascal)](https://github.com/cpicanco/free-pascal-prototypes)
 
-# Programas surgidos em outros contextos, mas possivelmente de interesse do analista do comportamento
+# Programas surgidos em outros contextos
+
+Mas possivelmente de interesse do analista do comportamento
 
 ## Psicofísica
 
@@ -68,3 +70,7 @@ Lista de programas de computador surgidos no contexto da análise do comportamen
 [PsyScope X](http://psy.ck.sissa.it/)
 
 [z-Tree - Zurich Toolbox for Readymade Economic Experiments](http://www.ztree.uzh.ch/en.html)
+
+# Periódicos
+
+[Behavior Research Methods](https://link.springer.com/journal/13428)
