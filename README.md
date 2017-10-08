@@ -51,6 +51,12 @@ Lista de programas de computador surgidos no contexto da análise do comportamen
 
 [Operant Behaviour Programs for Med Associates chambers](https://github.com/SKhoo/MedStateNotation)
 
+## Terapêuticos
+
+### TEPT (Transtorno de Estresse Pós-Traumático)
+
+O Desenvolvimento e o uso do Software "C M" na Reestruturação da Memória Pós-Traumática, Sobre comportamento e cognição, 12 (30).
+
 ## Simuladores
 
 [Sniffy, the virtual rat: Simulated operant conditioning](https://link.springer.com/article/10.3758/BF03204606)
