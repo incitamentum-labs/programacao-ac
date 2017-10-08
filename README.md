@@ -33,6 +33,8 @@ Lista de programas de computador surgidos no contexto da análise do comportamen
 
 [PaolaChoice](https://bitbucket.org/twoelz/paolachoice)
 
+[Psychotacto2.0](http://www.usp.br/rbtcc/index.php/RBTCC/article/view/399)
+
 [RegraSensiMts](https://bitbucket.org/twoelz/regrasensimts)
 
 ## Cultura
