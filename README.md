@@ -37,6 +37,10 @@ Lista de programas de computador surgidos no contexto da análise do comportamen
 
 [RegraSensiMts](https://bitbucket.org/twoelz/regrasensimts)
 
+## Crenças
+
+> O papel dos reforçadores sociais na manutenção de crenças sobre características entre homens e mulheres: um estudo a partir do software Belief, Sobre Comportamento e cognição, vol. 21, cap. 27.
+
 ## Cultura
 
 [Free Culturant: A software for the experimental study of behavioral and cultural selection](http://dx.doi.org/10.1037/pne0000016)
@@ -55,7 +59,7 @@ Lista de programas de computador surgidos no contexto da análise do comportamen
 
 ### TEPT (Transtorno de Estresse Pós-Traumático)
 
-O Desenvolvimento e o uso do Software "C M" na Reestruturação da Memória Pós-Traumática, Sobre comportamento e cognição, 12 (30).
+> O Desenvolvimento e o uso do Software "C M" na Reestruturação da Memória Pós-Traumática, Sobre comportamento e cognição, vol. 12, cap. 30.
 
 ## Simuladores
 
