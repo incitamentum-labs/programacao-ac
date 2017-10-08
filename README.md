@@ -11,7 +11,11 @@ Lista de programas de computador surgidos no contexto da análise do comportamen
 
 ## Controle de estímulos, Ensino individualizado, Esquemas de reforço
 
+[Arti-Fácil: software de resolução de problemas aritméticos de adição e subtração](www.uel.br/pessoal/haydu/resumos/arti-facil.pdf)
+
 [EAM - Emparelhamento ao Modelo](https://github.com/eep-lab/eam)
+
+[Equação-equilíbrio: o modelo da balança e a análise da resolução de problemas aritméticos em escolares de primeiro grau](https://www.researchgate.net/publication/309203748_Equacao-equilibrio_o_modelo_da_balanca_e_a_analise_da_resolucao_de_problemas_aritmeticos_em_escolares_de_primeiro_grau)
 
 [Generating Variable and Random Schedules of Reinforcement Using Microsoft Excel Macros](dx.doi.org/10.1901/jaba.2008.41-227)
 
