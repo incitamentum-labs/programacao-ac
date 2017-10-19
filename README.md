@@ -9,12 +9,11 @@ Lista de programas de computador surgidos no contexto da análise do comportamen
 
 [Picanço & Tonneau (2016). Análise do comportamento por meio de rastreamento de movimentos oculares: uma nota técnica.](https://github.com/cpicanco/abpmc-2016)
 
-[Bullock, Fisher & Hagopian (2017). Description and Validation of a Computerized Behavioral
-Data Program: “BDataPro”](https://doi.org/10.1007/s40614-016-0079-0)
-
 ## Controle de estímulos, Ensino individualizado, Esquemas de reforço
 
 [Arti-Fácil: software de resolução de problemas aritméticos de adição e subtração](www.uel.br/pessoal/haydu/resumos/arti-facil.pdf)
+
+[BDataPro: Bullock, Fisher & Hagopian (2017)](https://doi.org/10.1007/s40614-016-0079-0)
 
 [EAM - Emparelhamento ao Modelo](https://github.com/eep-lab/eam)
 
