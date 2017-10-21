@@ -3,6 +3,8 @@ Lista de programas de computador surgidos no contexto da análise do comportamen
 
 ## Análise de dados, Banco de dados, Graficação
 
+[Discounting Model Selector](https://github.com/miyamot0/ModelSelectorQt)
+
 [Magnusson, M. S. (2000). Discovering hidden time patterns in behavior: T-patterns and their detection.](https://doi.org/10.3758/BF03200792)
 
 [Picanço & Barros (2015). Symmetry Evaluation by Comparing Acquisition of Conditional Relations in Successive (Go/No-Go) Matching-to-Sample Training](https://github.com/cpicanco/publications_analysis/tree/master/picanco_etal_2015)
