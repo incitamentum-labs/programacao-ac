@@ -73,6 +73,8 @@ Lista de programas de computador surgidos no contexto da análise do comportamen
 
 [Sniffy, the virtual rat: Simulated operant conditioning](https://link.springer.com/article/10.3758/BF03204606)
 
+[CyberRat](http://www.ai2inc.com/HomeProducts/cyberrat.html)
+
 ## Testes, Exemplos e Protótipos
 
 [Protótipos (Object Pascal)](https://github.com/cpicanco/free-pascal-prototypes)
