@@ -21,6 +21,8 @@ Lista de programas de computador surgidos no contexto da análise do comportamen
 
 [Equação-equilíbrio: o modelo da balança e a análise da resolução de problemas aritméticos em escolares de primeiro grau](https://www.researchgate.net/publication/309203748_Equacao-equilibrio_o_modelo_da_balanca_e_a_analise_da_resolucao_de_problemas_aritmeticos_em_escolares_de_primeiro_grau)
 
+[Experimentos - Instituto Walden 4](https://www.walden4.com.br/site/xol/xol.php)
+
 [Generating Variable and Random Schedules of Reinforcement Using Microsoft Excel Macros](dx.doi.org/10.1901/jaba.2008.41-227)
 
 [LECH-GEIC - Gerenciador de Ensino Individualizado por Computador](http://geic.ufscar.br/site/)
