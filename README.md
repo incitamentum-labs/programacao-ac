@@ -83,6 +83,10 @@ Lista de programas de computador surgidos no contexto da análise do comportamen
 
 [Protótipos (Object Pascal)](https://github.com/cpicanco/free-pascal-prototypes)
 
+## Observação/etograma
+
+[Boris](http://www.boris.unito.it/)
+
 # Programas surgidos em outros contextos
 
 Mas possivelmente de interesse do analista do comportamento
