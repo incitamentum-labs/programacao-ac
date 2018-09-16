@@ -105,6 +105,10 @@ Mas possivelmente de interesse do analista do comportamento
 
 [z-Tree - Zurich Toolbox for Readymade Economic Experiments](http://www.ztree.uzh.ch/en.html)
 
+## Estatística
+
+[JASP](https://jasp-stats.org/)
+
 # Periódicos
 
 [Behavior Research Methods](https://link.springer.com/journal/13428)
