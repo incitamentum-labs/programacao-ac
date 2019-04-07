@@ -25,6 +25,8 @@ Lista de programas de computador surgidos no contexto da análise do comportamen
 
 [Generating Variable and Random Schedules of Reinforcement Using Microsoft Excel Macros](dx.doi.org/10.1901/jaba.2008.41-227)
 
+[Jclic](https://clic.xtec.cat/legacy/en/jclic/)
+
 [LECH-GEIC - Gerenciador de Ensino Individualizado por Computador](http://geic.ufscar.br/site/)
 
 [Máquina de Ensinar (UFRGS)](https://www.ufrgs.br/psicoeduc/maquina-de-ensinar/)
