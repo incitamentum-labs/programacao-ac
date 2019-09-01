@@ -13,7 +13,7 @@ Lista de programas de computador surgidos no contexto da análise do comportamen
 
 ## Controle de estímulos, Ensino individualizado, Esquemas de reforço
 
-[Arti-Fácil: software de resolução de problemas aritméticos de adição e subtração](www.uel.br/pessoal/haydu/resumos/arti-facil.pdf)
+[Arti-Fácil: software de resolução de problemas aritméticos de adição e subtração](http://www.uel.br/pessoal/haydu/resumos/arti-facil.pdf)
 
 [BDataPro: Bullock, Fisher & Hagopian (2017)](https://doi.org/10.1007/s40614-016-0079-0)
 
